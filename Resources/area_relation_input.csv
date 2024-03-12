@@ -1,0 +1,7 @@
+Room,Areas,Proximity
+Living,35,"1,2"
+Dining,30,"2,5"
+Bedroom,25,"3,4"
+Bathroom,5,"4,3"
+Kitchen,35,"5,2"
+Store,20,"6,5,2"
